@@ -1,6 +1,6 @@
 # Hi, my name is Davis Rodriguez 👋
 
-I’m a Computer Science student at UMBC and a full-stack developer with a passion for educational technology. By the end of my career, it is my mission to have helped bridge the gaps between education and accessibility.
+I’m a Computer Science student at UMBC and a full-stack developer with interest for educational technology. By the end of my career, it is my mission to have helped bridge the gaps between education and accessibility.
 
 This repository serves as my creative project submission for the OpenSesame Internship. Instead of a video or a slide deck, I wanted to do this in the way I'm most comfortable with: code and documentation.
 
